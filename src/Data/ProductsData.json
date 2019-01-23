@@ -1,0 +1,236 @@
+[{
+    
+    "data": 0,
+    "img": "4.jpg",
+    "name": "Kajal Sarees",
+    "price": 190.00,
+    "category": "Trending",
+    "to":"Women",
+    "rangePoint":52,
+    "offerPrice": 160.00
+}, {
+    "data": 1,
+    "img": "../images/3.jpg",
+    "name": "TV",
+    "price": 185.00,
+    "category": "Electronics",
+    "to":"",
+    "rangePoint":58,
+    "offerPrice": 150.00
+}, {
+    "data": 2,
+    "img": "../images/4.jpg",
+    "name": "Sofa",
+    "price": 210.00,
+    "category": "Home Decor",
+    "to":"",
+    "rangePoint":60,
+    "offerPrice": 180.00
+}, {
+    "data": 3,
+    "img": "../images/1.jpg",
+    "name": "Suit",
+    "price": 150.00,
+    "category": "Lifestyle",
+    "to":"Men",
+    "rangePoint":52,
+    "offerPrice": 110.00
+}, {
+    "data": 4,
+    "img": "../images/5.jpg",
+    "name": "Dress",
+    "price": 250.00,
+    "category": "Trending",
+    "to":"Women",
+    "rangePoint":66,
+    "offerPrice": 210.00
+}, {
+    "data": 5,
+    "img": "../images/2.jpg",
+    "name": "Clock",
+    "price": 85.00,
+    "category": "Trending",
+    "to":"",
+    "rangePoint":25,
+    "offerPrice": 50.00
+}, {
+    "data": 6,
+    "img": "../images/4.jpg",
+    "name": "Sofa",
+    "price": 210.00,
+    "category": "Home Decor",
+    "to":"",
+    "rangePoint":60,
+    "offerPrice": 180.00
+}, {
+    "data": 7,
+    "img": "../images/3.jpg",
+    "name": "TV",
+    "price": 175.00,
+    "category": "Electronics",
+    "to":"",
+    "rangePoint":58,
+    "offerPrice": 150.00
+}, {
+    "data": 8,
+    "img": "../images/5.jpg",
+    "name": "Dress",
+    "price": 230.00,
+    "category": "Lifestyle",
+    "to":"Women",
+    "rangePoint":66,
+    "offerPrice": 210.00
+}, {
+    "data": 9,
+    "img": "../images/1.jpg",
+    "name": "Suit",
+    "price": 160.00,
+    "category": "Lifestyle",
+    "to":"Men",
+    "rangePoint":52,
+    "offerPrice": 110.00
+}, {
+    "data": 10,
+    "img": "../images/2.jpg",
+    "name": "Clock",
+    "price": 90.00,
+    "category": "Trending",
+    "to":"",
+    "rangePoint":25,
+    "offerPrice": 500.00
+}, {
+    "data": 11,
+    "img": "../images/3.jpg",
+    "name": "TV",
+    "price": 180.00,
+    "category": "Lifestyle",
+    "to":"",
+    "rangePoint":58,
+    "offerPrice": 150.00
+}, {
+    "data": 12,
+    "img": "../images/4.jpg",
+    "name": "Sofa",
+    "price": 222.00,
+    "category": "Trending",
+    "to":"",
+    "rangePoint":60,
+    "offerPrice": 180.00
+}, {
+    "data": 13,
+    "img": "../images/1.jpg",
+    "name": "Suit",
+    "price": 150.00,
+    "category": "Lifestyle",
+    "to":"Men",
+    "rangePoint":52,
+    "offerPrice": 110.00
+}, {
+    "data": 14,
+    "img": "../images/4.jpg",
+    "name": "Sofa",
+    "price": 220.00,
+    "category": "Home Decor",
+    "to":"",
+    "rangePoint":60,
+    "offerPrice": 180.00
+}, {
+    "data": 15,
+    "img": "../images/5.jpg",
+    "name": "Dress",
+    "price": 260.00,
+    "category": "Lifestyle",
+    "to":"Women",
+    "rangePoint":66,
+    "offerPrice": 210.00
+}, {
+    "data": 16,
+    "img": "../images/1.jpg",
+    "name": "Suit",
+    "price": 160.00,
+    "category": "Lifestyle",
+    "to":"Men",
+    "rangePoint":52,
+    "offerPrice": 110.00
+}, {
+    "data": 17,
+    "img": "../images/3.jpg",
+    "name": "TV",
+    "price": 190.00,
+    "category": "Electronics",
+    "to":"",
+    "rangePoint":58,
+    "offerPrice": 150.00
+}, {
+    "data": 18,
+    "img": "../images/2.jpg",
+    "name": "Clock",
+    "price": 85.00,
+    "category": "Lifestyle",
+    "to":"",
+    "rangePoint":25,
+    "offerPrice": 50.00
+}, {
+    "data": 19,
+    "img": "../images/5.jpg",
+    "name": "Dress",
+    "price": 240.00,
+    "category": "Lifestyle",
+    "to":"Women",
+    "rangePoint":66,
+    "offerPrice": 210.00
+}, {
+    "data": 20,
+    "img": "../images/1.jpg",
+    "name": "Suit",
+    "price": 160.00,
+    "category": "Lifestyle",
+    "to":"Men",
+    "rangePoint":52,
+    "offerPrice": 110.00
+}, {
+    "data": 21,
+    "img": "../images/4.jpg",
+    "name": "Sofa",
+    "price": 225.00,
+    "category": "Home Decor",
+    "to":"",
+    "rangePoint":60,
+    "offerPrice": 180.00
+}, {
+    "data": 22,
+    "img": "../images/2.jpg",
+    "name": "Clock",
+    "price": 80.00,
+    "category": "Lifestyle",
+    "to":"",
+    "rangePoint":25,
+    "offerPrice": 50.00
+}, {
+    "data": 23,
+    "img": "../images/2.jpg",
+    "name": "Clock",
+    "price": 80.00,
+    "category": "Trending",
+    "to":"",
+    "rangePoint":25,
+    "offerPrice": 50.00
+}, {
+    "data": 24,
+    "img": "../images/1.jpg",
+    "name": "Suit",
+    "price": 160.00,
+    "category": "Lifestyle",
+    "to":"Men",
+    "rangePoint":52,
+    "offerPrice": 110.00
+}, {
+    "data": 25,
+    "img": "../images/5.jpg",
+    "name": "Dress",
+    "price": 280.00,
+    "category": "Lifestyle",
+    "to":"Women",
+    "rangePoint":66,
+    "offerPrice": 210.00
+}]
