@@ -23,17 +23,20 @@ class App extends Component {
   type=(e)=>{
     this.setState({selectType:e})
   }
+ 
   render() {
     return (
 			<React.Fragment>      
 				<Header searchQuerry={this.filter} rangeSearch={this.range} typeSearch={this.type}/>
 				<main className="container-fluid wrapper">
-        <BrowserRouter>
+      
+        <BrowserRouter>        
 					<Switch>
-						<Route path="/gifts" component={()=><Gifts filterBy={this.state.categoryType} typeFilter={this.state.selectType} rangeFilter={this.state.range} />} />
+						<Route path="/gifts" component={()=><Gifts filterBy={this.state.categoryType} typeFilter={this.state.selectType} rangeFilter={this.state.range}/>} />
 						<Redirect from="/" exact to="/gifts" activeClassName='active' />
-					</Switch>
+					</Switch>          
           </BrowserRouter>
+      
 				</main>
 			</React.Fragment>
 		);

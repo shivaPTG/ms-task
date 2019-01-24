@@ -33,13 +33,13 @@ export default class Header extends Component{
             categoryType: e.currentTarget.title
           },()=>{this.props.typeSearch(this.state.categoryType)})
 
-       // console.log('this is:', e.currentTarget.title);
+       console.log('this is:', e.currentTarget.title);
       }
 
   render() {
     const { horizontal } = this.state
     const horizontalLabels = {
-        0: '$10',
+        0: '$0',
         25: '$50',
         50: '$100',
         75: '$500',
@@ -88,7 +88,6 @@ export default class Header extends Component{
           format={formatkg}
           handleLabel={horizontal}
           onChange={this.handleChangeHorizontal}    />
-          {/* <div className='value'>{formatkg(horizontal)}</div> */}
       </div>
            </div>     
     
