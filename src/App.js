@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../src/styles/styles.css';
 import { BrowserRouter, Redirect, Route, Switch } from "react-router-dom";
-import Gifts from './Components/Gifts';
+import Gifts from './Components/gifts';
 import Header  from './Components/Header';
 
 
